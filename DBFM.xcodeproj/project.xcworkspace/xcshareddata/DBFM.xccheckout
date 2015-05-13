@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>78E9D248-4D86-4696-B314-D5F6A5D88542</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>aaf8de5d-9a62-470b-96fa-933d049734f3++7576</key>
+		<string>https://dev.svn.its-mo.com/svn/dmapnavi-ios/src/HRWORKING2015/V300</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>aaf8de5d-9a62-470b-96fa-933d049734f3++7576</key>
+		<string>V300/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>aaf8de5d-9a62-470b-96fa-933d049734f3++7576</key>
+		<string>https://dev.svn.its-mo.com/svn/dmapnavi-ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://dev.svn.its-mo.com/svn/dmapnavi-ios/src/HRWORKING2015/V300</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>aaf8de5d-9a62-470b-96fa-933d049734f3++7576</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>aaf8de5d-9a62-470b-96fa-933d049734f3++7576</string>
+			<key>IDESourceControlWCCName</key>
+			<string>V300</string>
+		</dict>
+	</array>
+</dict>
+</plist>
